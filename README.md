@@ -1,10 +1,10 @@
 # Download Youtube video with Python
 
-This project download Youtube video with Python.
+This project download Youtube video with Python. 
 
 ## Prerequisites
 
-You need to [install Python 3.x](https://wiki.python.org/moin/BeginnersGuide/Download) on your machine.
+You need to [install Python 3.x](https://wiki.python.org/moin/BeginnersGuide/Download) on your machine. You need also to install `virtualenv`package to create Python Virtual environments.
 
 ## How to setup this Project
 
