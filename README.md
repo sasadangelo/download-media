@@ -24,7 +24,7 @@ source venv/bin/activate
 
 3. Install the requirements:
 ```
-pip3 install -f requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## How to download a Youtube video
