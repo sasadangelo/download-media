@@ -18,7 +18,7 @@ cd download-media
 
 2. Create a Python virtual environment and activate it:
 ```
-python venv -m venv
+python -m venv venv
 source venv/bin/activate
 ```
 
